@@ -1,0 +1,22 @@
+.layout {
+  display: flex;
+  /* width: 80%; */
+  width: 1000px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  justify-content: center;
+}
+
+.title {
+}
+
+.image {
+  width: 50%;
+}

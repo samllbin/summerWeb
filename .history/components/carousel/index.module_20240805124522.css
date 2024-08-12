@@ -1,0 +1,16 @@
+.contentStyle {
+  height: 300px;
+  color: #fff;
+  /* line-height: 160px; */
+  text-align: center;
+  background: #364d79;
+}
+
+.layout {
+  height: 200px;
+}
+
+.imgStyle {
+  height: 200px;
+  width: 100%;
+}

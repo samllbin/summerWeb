@@ -1,0 +1,20 @@
+.contentStyle {
+  height: 400px;
+  color: #fff;
+  line-height: 400px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgStyle {
+  height: 400px;
+  width: 60%;
+  margin: 0 auto;
+}
+.layout {
+  /* width: 100%; */
+  margin: 0;
+  text-align: center;
+}

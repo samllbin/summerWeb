@@ -1,0 +1,14 @@
+.backgroundImage {
+  /* background-image: url(../../public/草\(1\).jpg); */
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  bottom: 0px;
+  /* width: 100%; */
+}
+
+.tree {
+  position: relative;
+  opacity: 0.7;
+  bottom: 0px;
+}

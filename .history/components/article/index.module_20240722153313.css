@@ -1,0 +1,13 @@
+.allLayout {
+  display: flex;
+  width: 100%;
+}
+
+.allImage {
+  width: 100%;
+}
+
+.allTitle{
+    background-color: #fff;
+    font-size: 20px;
+}

@@ -1,0 +1,18 @@
+.searchButton {
+  width: 80%;
+  margin-top: 50px;
+}
+.mainLayout {
+  text-align: center;
+  width: 100%;
+}
+.app {
+  text-align: center;
+  padding: 20px;
+}
+.carContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}

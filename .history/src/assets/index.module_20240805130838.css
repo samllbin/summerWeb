@@ -1,0 +1,12 @@
+.layout {
+  font-family: "宋体", sans-serif;
+  display: flex;
+}
+
+.courseLayout {
+  width: 100%;
+  margin: 0 auto;
+  background-image: url(../../);
+  /* align-items: center; */
+  /* justify-content: center; */
+}

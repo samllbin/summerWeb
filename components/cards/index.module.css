@@ -1,0 +1,30 @@
+.app {
+  text-align: center;
+  padding: 20px;
+}
+.carContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.carCard {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  cursor: pointer;
+  overflow: hidden;
+  transition: transform 0.5s;
+}
+.cardBack {
+  color: #333;
+  background-color: #fff;
+  border: 1px solid #ccc;
+}
+.carCardImg {
+  max-width: 100%;
+  max-height: 100%;
+}

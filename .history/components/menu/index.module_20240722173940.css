@@ -1,0 +1,25 @@
+.backgroundImage {
+  /* background-image: url(../../public/草\(1\).jpg);
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  bottom: 0px; */
+  height: 1000px;
+  
+  background-image: url(../../public/风信子.jpg);
+}
+
+.tree {
+  position: relative;
+  z-index: -1;
+  opacity: 0.7;
+  bottom: -30px;
+}
+
+.cao {
+  width: 250px;
+  opacity: 0.6;
+}
+
+.layout {
+}

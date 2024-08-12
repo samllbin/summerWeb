@@ -1,0 +1,7 @@
+.backgroundImage {
+  /* background-image: url(../../public/草\(1\).jpg); */
+  display: flex;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+}
