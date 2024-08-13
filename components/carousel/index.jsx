@@ -1,10 +1,10 @@
 import React from "react";
 import { Carousel } from "antd";
 import style from "./index.module.css";
-import img1 from "../../public/QQ图片20240805123848.jpg";
-import img2 from "../../public/QQ图片20240805123914.jpg";
-import img3 from "../../public/QQ图片20240808170818.jpg";
-import img4 from "../../public/QQ图片20240805123922.png";
+import img1 from "../../src/assets/QQ20240805123848.jpg";
+import img2 from "../../src/assets/QQ20240805123914.jpg";
+import img3 from "../../src/assets/QQ20240808170818.jpg";
+import img4 from "../../src/assets/QQ20240805123922.png";
 
 export default function carousel() {
   return (

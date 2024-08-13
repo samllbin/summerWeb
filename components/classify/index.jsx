@@ -5,10 +5,10 @@ import style from "./index.module.css";
 import { useState } from "react";
 import axios from "axios";
 import { QuestionCircleOutlined } from "@ant-design/icons";
-import kehuishou from "../../public/可回收标志.png";
-import chuyu from "../../public/厨余标志.png";
-import bukehuishou from "../../public/不可回收标志.png";
-import youhai from "../../public/有害标志.png";
+import kehuishou from "../../src/assets/kehuishou.png";
+import chuyu from "../../src/assets/chuyu.png";
+import bukehuishou from "../../src/assets/bukehuishou.png";
+import youhai from "../../src/assets/youhai.png";
 
 const { Search } = Input;
 

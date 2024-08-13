@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import style from "./assets/index.module.css";
+import style from "./index.module.css";
 import Carousel from "@components/carousel";
 import MenuTab from "@components/menu";
 import Content from "@components/content";
